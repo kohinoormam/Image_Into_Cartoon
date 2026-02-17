@@ -29,3 +29,4 @@ Save the output automatically:
 ```python
 cv2.imwrite("data/diya_cartoon.jpg", cartoon)
 ```
+<img width="753" height="679" alt="image" src="https://github.com/user-attachments/assets/456b1dda-b42a-4722-b779-8232dd7f6c55" />
